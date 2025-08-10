@@ -33,20 +33,20 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarenR0911&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenR0911&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Conecta conmigo
 <p align="center">
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KarenR0911"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=584145613177&text=%F0%9F%98%81%20%C2%A1Hola!%20Tengo%20inter%C3%A9s%20en%20un%20proyecto%20en%20el%20que%20tu%20puedes%20ayudarme.)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-💬 *"El código es mi lienzo y la tecnología, mi pincel."* 🎀
+💬 "El código es mi lienzo y la tecnología, mi pincel." 🎀
 </p>
